@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @fleurei
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
+- 👋 Hi, I’m sya!
+- 👀 I’m interested in data analytics
 - 😄 Pronouns: she/her
 
 <!---
